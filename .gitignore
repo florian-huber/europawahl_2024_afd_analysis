@@ -1,0 +1,4 @@
+*.py[cod]
+*.egg-info
+*.eggs
+.ipynb_checkpoints
